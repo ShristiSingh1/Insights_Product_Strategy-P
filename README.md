@@ -1,8 +1,4 @@
 # Insights for New Product Launch Strategy - Power BI
-- This project is a part of [Codebasics](https://codebasics.io/challenge/codebasics-resume-project-challenge) Resume Project challenge #8: Provide Insights to the Product Strategy Team in the Banking Domain
-
-- Link to [Portfolio Website](https://codebasics.io/portfolio/Amogh-Sawant)
-- Link to [Live Dashboard](https://www.novypro.com/project/insights-for-new-product-launch-strategy-power-bi)
 
 ## Problem statement
 
@@ -38,23 +34,8 @@ You are a data analyst who has been provided with sample data to work on the fol
     <img src='https://github.com/amoghsawant17/Insights_Product_Strategy/blob/main/view_snaps/snap_ma.png' width="600">
 </p>
 
-## Support View
 
-<p align="center">
-    <img src='https://github.com/amoghsawant17/Insights_Product_Strategy/blob/main/view_snaps/snap_support.png' width="600">
-</p>
 
-## Feedback View
-
-<p align="center">
-    <img src='https://github.com/amoghsawant17/Insights_Product_Strategy/blob/main/view_snaps/snap_fb.png' width="600">
-</p>
-
-## Attribution View
-
-<p align="center">
-    <img src='https://github.com/amoghsawant17/Insights_Product_Strategy/blob/main/view_snaps/snap_at.png' width="600">
-</p>
 
 ## Things that I learned from this Project
 - I Learned, how to use bookmarks and selection for different purposes. (Page navigation and a clear filter button in the dashboard were achieved using bookmarks and selection same as a website page navigation.
